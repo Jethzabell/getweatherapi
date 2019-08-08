@@ -1,2 +1,2 @@
-# getweatherapi
+# get weather API
 golang project
