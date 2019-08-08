@@ -8,7 +8,7 @@ import (
 	"weather-app/models"
 )
 
-//GetForeCast dfs
+//GetForeCast will return the forecast base on a latitude and longitude
 func GetForeCast(longitude float64, latitude float64) (*models.DarkSkyResponse, error) {
 
 	long := fmt.Sprintf("%f", longitude)
