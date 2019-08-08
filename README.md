@@ -1,0 +1,2 @@
+# getweatherapi
+golang project
