@@ -20,11 +20,12 @@ Know the ZipCode you want to use.
 - You will use this as a query parameter; [localhost:3000?zipCode=inputZipCode](http://localhost:3000?zipCode=inputZipCode).
 
 ### Response Payload Example
+Get Request  [localhost:3000?zipCode=27703e](http://localhost:3000?zipCode=27703)
 
 ```json
 {
-		"placeName":"North Carolina",
+		"placeName":"Duram, NC",
 		"temperature":"74F",
-		"summary":"Today is sunny",
+		"summary":"Today is going to be sunny",
 }
 ```
