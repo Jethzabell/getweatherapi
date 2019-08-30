@@ -1,4 +1,4 @@
-# get weather API
+# GetWeatherAPI
 
 A Golang app using [https://api.mapbox.com](https://api.mapbox.com) and [https://api.darksky.net](https://api.darksky.net) API
 
