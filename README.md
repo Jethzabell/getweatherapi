@@ -12,15 +12,15 @@ cd getweatherapi
 go run main.go
 ```
 
-Your app should now be running on [localhost:3000](http://localhost:3000/).
+Your app should now be running on [localhost:1323](http://localhost:1323/).
 
 ## Documentation
 
 Know the ZipCode you want to use.
-- You will use this as a query parameter; [localhost:3000?zipCode=inputZipCode](http://localhost:3000?zipCode=inputZipCode).
+- You will use this as a query parameter; [localhost:1323?zipcode=inputZipCode](http://localhost:1323?zipcode=inputZipCode).
 
 ### Response Payload Example
-Get Request  [localhost:3000?zipCode=27703](http://localhost:3000?zipCode=27703)
+Get Request  [localhost:1323?zipcode=27703](http://localhost:1323?zipcode=27703)
 
 ```json
 {
@@ -29,3 +29,6 @@ Get Request  [localhost:3000?zipCode=27703](http://localhost:3000?zipCode=27703)
 		"summary":"Today is going to be sunny",
 }
 ```
+
+User and Technical Documentation
+[https://drive.google.com/open?id=1E_zEND0ZqzUZdj5EQ3VDwwdlbb01HMKwBWwhGT_I5mI](https://drive.google.com/open?id=1E_zEND0ZqzUZdj5EQ3VDwwdlbb01HMKwBWwhGT_I5mI)
