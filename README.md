@@ -23,8 +23,8 @@ Know the ZipCode you want to use.
 
 ```json
 {
-		"placeName":   "North Carolina",
-		"temperature: "74F",
-		"summary":     "Today is sunny",
+		"placeName":"North Carolina",
+		"temperature":"74F",
+		"summary":"Today is sunny",
 }
 ```
