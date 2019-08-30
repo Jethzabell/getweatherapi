@@ -1,6 +1,6 @@
 # get weather API
 
-A Golang app.
+A Golang app using [https://api.mapbox.com](https://api.mapbox.com) and [https://api.darksky.net](https://api.darksky.net) API
 
 ## Running Locally
 
@@ -20,11 +20,11 @@ Know the ZipCode you want to use.
 - You will use this as a query parameter; [localhost:3000?zipCode=inputZipCode](http://localhost:3000?zipCode=inputZipCode).
 
 ### Response Payload Example
-Get Request  [localhost:3000?zipCode=27703e](http://localhost:3000?zipCode=27703)
+Get Request  [localhost:3000?zipCode=27703](http://localhost:3000?zipCode=27703)
 
 ```json
 {
-		"placeName":"Duram, NC",
+		"placeName":"Durham, NC",
 		"temperature":"74F",
 		"summary":"Today is going to be sunny",
 }
