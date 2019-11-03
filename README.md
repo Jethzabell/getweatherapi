@@ -2,6 +2,8 @@
 
 A Golang app using [https://api.mapbox.com](https://api.mapbox.com) and [https://api.darksky.net](https://api.darksky.net) API
 
+![](https://media.giphy.com/media/Kxn91DBk5zGhcuWXoi/giphy.gif)
+
 ## Running Locally
 
 Download, clone or fork this repository
